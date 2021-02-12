@@ -1,0 +1,7 @@
+.App-header {
+display: grid;
+grid-template-areas: 
+"h h"
+"b b";
+
+}

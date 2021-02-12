@@ -1,0 +1,31 @@
+.Body
+{
+    background-color: white;
+    height: 1000px;
+    grid-area: b;
+    padding:70px;
+    
+    display: grid;
+    grid-template-columns: 2fr 10fr;    
+    
+}
+
+.Body img{
+    height:  500px;
+}
+.Text
+{
+    margin-top: 20px;
+    padding:10px;
+}
+
+.About
+{
+    font-weight: bold;
+}
+.BottomNav
+{
+    padding:10px;
+}
+
+

@@ -1,0 +1,9 @@
+.Header
+{
+    height: 1000px;
+    grid-area: h;
+    background-image: url('./bg.png');
+    background-size: 1900px;
+    color: #f1f1f1;
+}
+
